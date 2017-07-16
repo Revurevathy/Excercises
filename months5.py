@@ -4,4 +4,5 @@ months.append('july')
 print 'The list is ',months
 months.insert(5,'june')
 print'The current list ', months
+print'The index of may is ',months.index('may')
 
